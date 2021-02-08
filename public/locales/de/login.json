@@ -1,19 +1,19 @@
 {
   "button": {
-    "login": "Einloggen"
+    "login": "anmelden" 
   },
   "input": {
     "placeholder": "Fügen Sie hier die SID-Nummer ein"
   },
   "message": {
-    "part1": "Damit Sie sich anmelden und Ihre Spiele installieren können, müssen Sie zunächst die folgenden Schritte ausführen:",
+    "part1": "Damit Sie sich anmelden und Ihre Spiele installieren können, müssen Sie zunächst die folgenden Schritte ausführen:", 
     "part2": "Öffnen Sie den",
     "part3": "Epic Store hier",
-    "part4": ", loggen Sie sich in Ihren Account ein und kopieren Sie ihre",
+    "part4": ", melden sie sich mit ihrem Account an und kopieren Sie ihre", 
     "part5": "SID Informations-Nummer",
     "part6": "Fügen Sie die",
     "part7": "SID-Nummer",
-    "part8": "in das untere Eingabefeld ein, klicken Sie auf den Login Knopf und warten Sie."
+    "part8": "in das untere Eingabefeld ein, klicken Sie auf anmelden und warten Sie." 
   },
   "status": {
     "error": "Fehler",
@@ -21,4 +21,4 @@
     "logging": "Logge ein..."
   },
   "welcome": "Willkommen!"
-}
+} 
