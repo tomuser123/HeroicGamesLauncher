@@ -2,7 +2,7 @@
   "All": "Alle",
   "box": {
     "appupdate": {
-      "message": "Es ist eine neue Version von Heroic verfügbar, möchten Sie jetzt aktualisieren?",
+      "message": "Es ist eine neue Version von Heroic verfügbar, möchten Sie diese installieren?",
       "title": "Update verfügbar"
     },
     "choose": "Auswählen",
@@ -13,7 +13,7 @@
     },
     "no": "NEIN",
     "quit": {
-      "message": "Es gibt anstehende Operationen, sind Sie sicher?",
+      "message": "Es gibt anstehende Operationen, möchten sie wirklich forfahren?",
       "title": "Beenden"
     },
     "runexe": {
@@ -56,7 +56,7 @@
       "part7": " um den Launcher in einigen Spielen zu überspringen, usw."
     },
     "sync": {
-      "part1": "Heroic versucht, den richtigen Spielstände Ordner zu erraten, und das funktioniert in den meisten Fällen. Falls der richtige Ordner nicht gefunden wurde, verwenden Sie das Feld zum um den jetzigen Ordner zu Überschreiben", .
+      "part1": "Heroic versucht, den richtigen Spielstände Ordner zu erraten, und das funktioniert in den meisten Fällen. Falls der richtige Ordner nicht gefunden wurde, verwenden Sie das Feld zum um den jetzigen Ordner zu Überschreiben", 
       "part2": "Falls Sie den Prefix-Ordner für Wine oder Proton ändern, müssen Sie den Pfad erneut überprüfen, da Proton einen anderen Prefix (/pfx) und Benutzernamen (steamuser) verwendet. Sie können in diesem Fall den jetztigen Ordner löschen, die Synchronisations-Einstellungen verlassen und wieder zurückkehren und Heroic wird den Ordner erneut mit dem richtigen Prefix versuchen zu finden.",
       "part3": "Manuelle Synchronisierung: Wählen Sie Download, um die in der Cloud gespeicherten Spielstände herunterzuladen. Upload, um die lokalen in die Cloud hochzuladen. Force Download und Force Upload ignorieren die Version, die sich lokal oder in der Cloud befindet.",
       "part4": "Die Spielstände werden automatisch bei jedem Spielstart und nach Beendigung des Spiels synchronisiert."

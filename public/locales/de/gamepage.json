@@ -23,8 +23,8 @@
       "title": "Deinstallieren"
     },
     "update": {
-      "message": "Für dieses Spiel ist ein Update verfügbar, möchten Sie jetzt aktualisieren?", 
-      "title": "Spiel benötigt Update"
+      "message": "Für dieses Spiel ist ein Update verfügbar, möchten sie dieses installieren?", 
+      "title": "Spiel benötigt eine neuere Version"
     },
     "yes": "JA"
   },
